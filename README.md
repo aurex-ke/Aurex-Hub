@@ -1,6 +1,6 @@
 # portfolio-hub
 
-**Status: planning stage (H0). Nothing here is built or completed yet.**
+**Status: planning stage (H1 in progress). Nothing here is built or completed yet.**
 
 A thin hub linking the learning, engineering background and open-source project of Aurex (GitHub: `aurex-ke`) into one story. Project first, personal story last.
 
@@ -11,7 +11,7 @@ A thin hub linking the learning, engineering background and open-source project 
 ## Pages
 
 - [about.md](about.md)
-- [learning/](learning/): [IoT for Beginners](learning/iot-for-beginners.md), [Scrimba full-stack](learning/scrimba-fullstack.md), [EEE diploma](learning/eee-diploma.md), [log](learning/log.md)
+- [learning/](learning/): [IoT for Beginners](learning/iot-for-beginners.md), [Scrimba Fullstack Developer Path](learning/scrimba-fullstack.md), [EEE diploma](learning/eee-diploma.md), [log](learning/log.md)
 - [skills-map.md](skills-map.md)
 - [milestones.md](milestones.md)
 - [claims-register.md](claims-register.md): single source of truth for every claim
