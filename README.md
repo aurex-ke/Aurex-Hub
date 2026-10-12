@@ -1,0 +1,29 @@
+# portfolio-hub
+
+**Status: planning stage (H0). Nothing here is built or completed yet.**
+
+A thin hub linking the learning, engineering background and open-source project of Aurex (GitHub: `aurex-ke`) into one story. Project first, personal story last.
+
+## The project
+
+`ke-designated-facility-ems` is an open-source, simulation-first reference implementation of an energy management system (EMS) for Kenyan designated facilities. The v0.1 scenario is a simulated 60-room hotel (`hotel-60rooms-sim-v1`). Nothing is deployed, and there are no pilots or partners. The repository link will be added here once it exists.
+
+## Pages
+
+- [about.md](about.md)
+- [learning/](learning/): [IoT for Beginners](learning/iot-for-beginners.md), [Scrimba full-stack](learning/scrimba-fullstack.md), [EEE diploma](learning/eee-diploma.md), [log](learning/log.md)
+- [skills-map.md](skills-map.md)
+- [milestones.md](milestones.md)
+- [claims-register.md](claims-register.md): single source of truth for every claim
+
+## How to read status labels
+
+Every claim carries one label: **Completed**, **Simulated** or **Planned**. A draft-only label, **Unverified**, must be zero before anything is published. See [claims-register.md](claims-register.md).
+
+## Contact
+
+Open a GitHub Issue on this repository. Fallback: aurexcv@gmail.com
+
+## Credits
+
+See [NOTICE.md](NOTICE.md). No affiliation with OpenEMS, Microsoft or Scrimba is implied.

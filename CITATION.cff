@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you reference this hub, please cite it as below."
+title: "portfolio-hub"
+authors:
+  - alias: "Aurex"
+repository-code: "https://github.com/aurex-ke/portfolio-hub"
+license: MIT
