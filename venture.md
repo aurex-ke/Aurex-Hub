@@ -1,13 +1,13 @@
 # Venture: ke-designated-facility-ems
 
-**Status:** Planned  
+**Status:** M1 Completed; M2 to M8 Planned  
 **Claim IDs:** C-004, C-005, C-006, C-007, C-008
 
-Repository: https://github.com/aurex-ke/ke-designated-facility-ems (link assumes the repository is published; see Evidence)
+Repository: https://github.com/aurex-ke/ke-designated-facility-ems
 
 ## What I did
 
-- Drafted the M1 documentation set for the venture repository: README, problem statement and two architecture decision records (2026-10-13).
+- Published the M1 documentation set to the venture repository: README, problem statement and two architecture decision records (commit `41feb60`).
 - Checked regulation excerpts and OpenEMS licence statements while writing them (2026-10-13). Details and gaps are in the problem statement.
 
 No code exists. Nothing is deployed. There are no pilots, partners or users.
@@ -20,7 +20,7 @@ An open-source, simulation-first reference implementation of an energy managemen
 
 | ID | Milestone | Status | Evidence |
 |---|---|---|---|
-| M1 | Repo, README, problem statement, architecture decision records | Planned (files drafted, publication not yet evidenced) | None yet |
+| M1 | Repo, README, problem statement, architecture decision records | Completed | [Commit 41feb60](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) |
 | M2 | OpenEMS Edge with simulators in Docker Compose | Planned | None |
 | M3 | Hotel load generator and sub-meter data | Planned | None |
 | M4 | Ingestion and storage | Planned | None |
@@ -33,7 +33,7 @@ Out of scope for v0.1: utility API, authentication, multi-site, real hardware, b
 
 ## Evidence
 
-None yet. When M1 is published, the commit URL is added here and C-008 is updated.
+M1: commit [`41feb60`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) on `main`. M2 to M8: none yet.
 
 ## How it connects
 

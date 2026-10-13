@@ -1,6 +1,6 @@
 # portfolio-hub
 
-**Status: planning stage (H2 in progress). Nothing here is built or completed yet.**
+**Status: planning stage (H2). The venture's M1 documentation is published. Nothing else is built or completed yet.**
 
 A thin hub linking the learning, engineering background and open-source project of Aurex (GitHub: `aurex-ke`) into one story. Project first, personal story last.
 

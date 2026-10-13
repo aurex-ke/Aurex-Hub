@@ -4,7 +4,7 @@
 
 | ID | Milestone | Status |
 |---|---|---|
-| M1 | Repo, README, problem statement, architecture decision record | Planned |
+| M1 | Repo, README, problem statement, architecture decision record | Completed (commit 41feb60) |
 | M2 | OpenEMS Edge with simulators in Docker Compose | Planned |
 | M3 | Hotel load generator and sub-meter data | Planned |
 | M4 | Ingestion and storage | Planned |

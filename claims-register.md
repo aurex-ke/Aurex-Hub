@@ -16,7 +16,7 @@ Unverified rows: 0
 | C-005 | Tariff model and peak-shifting scenario | Planned | None | Not yet checked | Tariff values are assumptions |
 | C-006 | Compliance report for a designated facility | Planned | None | Kenya Law excerpts, retrieved 2026-10-13 (see venture problem statement) | Excerpts confirm: 180,000 kWh threshold, audit at least every 4 years, report within 1 month, 50% of savings within 3 years of the investment plan. Full text not read (site blocked automated fetch). Net-metering caps corrected: domestic 4 kW single-phase or 10 kW three-phase, C&I capped at maximum demand, below 1 MW applicability. Export credit rate: leave unstated. "Dumping" and the September 2026 amendment unverified. Auditor independence unverified |
 | C-007 | Simulated 60-room hotel `hotel-60rooms-sim-v1` | Planned | None | n/a | Size, load profile and threshold status are assumptions |
-| C-008 | Venture repository documentation (README, problem statement, ADRs 0001 and 0002) published for milestone M1 | Planned | None yet | Drafted 2026-10-13 | Flip to Completed only with a commit URL as evidence |
+| C-008 | Venture repository documentation (README, problem statement, ADRs 0001 and 0002) published for milestone M1 | Completed | [Commit 41feb60](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) | Terminal output of `git log --oneline -1` showing HEAD and origin/main at 41feb60, reported by the owner 2026-10-13 | Documentation only, no code. The commit URL was built from the short hash and not yet opened: open it before relying on it |
 
 ## Not claimed
 

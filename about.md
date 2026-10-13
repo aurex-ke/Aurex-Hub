@@ -1,7 +1,7 @@
 # About
 
 **Status:** Planned  
-**Claim IDs:** C-001, C-002, C-003, C-007
+**Claim IDs:** C-001, C-002, C-003, C-007, C-008
 
 I go by Aurex (GitHub: `aurex-ke`). I am studying electrical and electronic engineering and building an open-source, simulation-first energy management system for Kenyan designated facilities.
 
@@ -9,7 +9,7 @@ I go by Aurex (GitHub: `aurex-ke`). I am studying electrical and electronic engi
 
 - Wrote the plan for this hub and for the project.
 - Checked the official pages of the two courses I intend to retake (13 Oct 2026).
-- Drafted the first documentation set for the project (see [venture.md](venture.md)).
+- Published the first documentation set for the project (see [venture.md](venture.md)).
 
 I have not completed either course, and the project has no code yet.
 
