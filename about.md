@@ -9,8 +9,9 @@ I go by Aurex (GitHub: `aurex-ke`). I am studying electrical and electronic engi
 
 - Wrote the plan for this hub and for the project.
 - Checked the official pages of the two courses I intend to retake (13 Oct 2026).
+- Drafted the first documentation set for the project (see [venture.md](venture.md)).
 
-I have not completed either course, and nothing in the project is built yet.
+I have not completed either course, and the project has no code yet.
 
 ## Evidence
 
@@ -23,7 +24,7 @@ I am retaking two courses hands-on, learning each topic when the project needs i
 - [Microsoft IoT for Beginners](learning/iot-for-beginners.md) (Planned)
 - [Scrimba Fullstack Developer Path](learning/scrimba-fullstack.md) (Planned)
 
-The [skills map](skills-map.md) links each skill to a project milestone, and the [milestones](milestones.md) page gives the order of work.
+The [skills map](skills-map.md) links each skill to a project milestone, and [venture.md](venture.md) describes the project.
 
 ## How to help
 

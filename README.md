@@ -1,15 +1,19 @@
 # portfolio-hub
 
-**Status: planning stage (H1 in progress). Nothing here is built or completed yet.**
+**Status: planning stage (H2 in progress). Nothing here is built or completed yet.**
 
 A thin hub linking the learning, engineering background and open-source project of Aurex (GitHub: `aurex-ke`) into one story. Project first, personal story last.
 
 ## The project
 
-`ke-designated-facility-ems` is an open-source, simulation-first reference implementation of an energy management system (EMS) for Kenyan designated facilities. The v0.1 scenario is a simulated 60-room hotel (`hotel-60rooms-sim-v1`). Nothing is deployed, and there are no pilots or partners. The repository link will be added here once it exists.
+`ke-designated-facility-ems` is an open-source, simulation-first reference implementation of an energy management system (EMS) for Kenyan designated facilities. The v0.1 scenario is a simulated 60-room hotel (`hotel-60rooms-sim-v1`). Nothing is deployed, and there are no pilots or partners.
+
+- Hub page: [venture.md](venture.md)
+- Repository: https://github.com/aurex-ke/ke-designated-facility-ems
 
 ## Pages
 
+- [venture.md](venture.md)
 - [about.md](about.md)
 - [learning/](learning/): [IoT for Beginners](learning/iot-for-beginners.md), [Scrimba Fullstack Developer Path](learning/scrimba-fullstack.md), [EEE diploma](learning/eee-diploma.md), [log](learning/log.md)
 - [skills-map.md](skills-map.md)
