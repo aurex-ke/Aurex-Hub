@@ -1,6 +1,6 @@
 # portfolio-hub
 
-**Status: planning stage (H2). The venture's M1 documentation is published. Nothing else is built or completed yet.**
+**Status: hub steps H0 to H2 are done and H3 (label flips) is under way. The venture's M1 (documentation) and M2 (OpenEMS Edge and its UI in Docker Compose, with a simulated household example) are completed, with evidence linked in [venture.md](venture.md). Nothing else is built or completed yet.**
 
 A thin hub linking the learning, engineering background and open-source project of Aurex (GitHub: `aurex-ke`) into one story. Project first, personal story last.
 
