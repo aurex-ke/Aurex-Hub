@@ -1,7 +1,7 @@
 # Venture: ke-designated-facility-ems
 
 **Status:** M1 and M2 Completed; M3 to M8 Planned  
-**Claim IDs:** C-004, C-005, C-006, C-007, C-008
+**Claim IDs:** C-004, C-005, C-006, C-007, C-008, C-009
 
 Repository: https://github.com/aurex-ke/ke-designated-facility-ems
 
@@ -11,6 +11,7 @@ Repository: https://github.com/aurex-ke/ke-designated-facility-ems
 - Checked regulation excerpts and OpenEMS licence statements while writing them (2026-10-13). Details and gaps are in the problem statement.
 - Built the simulated Edge stack in Docker Compose: images pinned by digest, a seed for a small simulated chain, a smoke test and a runbook (commits `f11c625`, `48c6333`, `6cbd47d`, `a26ae34`, `4e01b61`).
 - Found a seed-order bug with a fresh-volume test, fixed it, and wrote the unresolved observations into the runbook instead of guessing their causes.
+- Added contribution files to the venture repository: a contributing guide, a security policy that uses GitHub's private vulnerability reporting, a code of conduct that adopts the Contributor Covenant 3.0 by link, and two issue forms (commits `eb6e858`, `5a5d435`, `3d5720b`).
 
 No Python code exists yet. The Compose files and a shell smoke test do. Nothing is deployed. There are no pilots, partners or users.
 
@@ -35,7 +36,7 @@ Out of scope for v0.1: utility API, authentication, multi-site, real hardware, b
 
 ## Evidence
 
-M1: commit [`41feb60`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) on `main`. M2: commit [`4e01b61`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/4e01b61) on `main`, with the runbook and ADRs 0003 to 0005 in the same repository. M3 to M8: none yet.
+M1: commit [`41feb60`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) on `main`. M2: commit [`4e01b61`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/4e01b61) on `main`, with the runbook and ADRs 0003 to 0005 in the same repository. Contribution files: commits [`eb6e858`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/eb6e858), [`5a5d435`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/5a5d435) and [`3d5720b`](https://github.com/aurex-ke/ke-designated-facility-ems/commit/3d5720b). M3 to M8: none yet.
 
 ## How it connects
 
@@ -60,6 +61,7 @@ Each skill from my [learning pages](learning/) maps to a milestone in the [skill
 - The cause of two VM freezes on 2026-10-15 was never proven. A configuration change may have stopped them, or it may be luck.
 - A "defective app" message appears for about 5 minutes after the first start on a fresh volume. Its cause is unknown.
 - The development stack uses OpenEMS's documented default logins, on loopback only. This is recorded as a development-only exception (ADR 0005).
+- The contribution files have not been used by anyone else. The reporter's view of private vulnerability reporting has not been tested.
 
 ## Not claimed
 

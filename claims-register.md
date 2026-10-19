@@ -4,7 +4,7 @@ Single source of truth. Every claim on any page must have a row here.
 
 **Labels:** Completed (evidence linked), Simulated (reproducible seeded run linked), Planned (not done), Unverified (draft only; must be zero before publishing).
 
-Last reviewed: 2026-10-18  
+Last reviewed: 2026-10-19  
 Unverified rows: 0
 
 | ID | Claim | Status | Evidence | Source and retrieval date | Notes |
@@ -17,6 +17,7 @@ Unverified rows: 0
 | C-006 | Compliance report for a designated facility | Planned | None | Kenya Law excerpts, retrieved 2026-10-13 (see venture problem statement) | Excerpts confirm: 180,000 kWh threshold, audit at least every 4 years, report within 1 month, 50% of savings within 3 years of the investment plan. Full text not read (site blocked automated fetch). Net-metering caps corrected: domestic 4 kW single-phase or 10 kW three-phase, C&I capped at maximum demand, below 1 MW applicability. Export credit rate: leave unstated. "Dumping" and the September 2026 amendment unverified. Auditor independence unverified |
 | C-007 | Simulated 60-room hotel `hotel-60rooms-sim-v1` | Planned | None | n/a | Size, load profile and threshold status are assumptions |
 | C-008 | Venture repository documentation (README, problem statement, ADRs 0001 and 0002) published for milestone M1 | Completed | [Commit 41feb60](https://github.com/aurex-ke/ke-designated-facility-ems/commit/41feb60) | Terminal output of `git log --oneline -1` showing HEAD and origin/main at 41feb60, reported by the owner 2026-10-13 | Documentation only, no code. The commit URL was opened by the owner and works (reported 2026-10-13) |
+| C-009 | Contribution files published in the venture repository: CONTRIBUTING.md, SECURITY.md, CODE_OF_CONDUCT.md (adopts Contributor Covenant 3.0 by link) and two issue forms (bug report, data correction) | Completed | [Commit eb6e858](https://github.com/aurex-ke/ke-designated-facility-ems/commit/eb6e858); follow-ups [5a5d435](https://github.com/aurex-ke/ke-designated-facility-ems/commit/5a5d435) and [3d5720b](https://github.com/aurex-ke/ke-designated-facility-ems/commit/3d5720b) | GitHub documentation on issue forms, retrieved 2026-10-19 (search excerpts, fragmentary); Contributor Covenant 3.0 page opened by the owner 2026-10-19; owner screenshots of the issue chooser, the Community standards page and the Advanced Security settings (private vulnerability reporting enabled), 2026-10-19; terminal output of `git push` showing 3d5720b, reported by the owner 2026-10-19 | Files and settings only. The reporter-side view of "Report a vulnerability" was not tested; the owner saw the enabled setting and the Advisories page. No pull request template, on purpose. The Covenant is adopted by link, not copied, because its 3.0 text is reported as CC BY-SA 4.0 (earlier research, 2026-10-18; not re-checked). The fallback email appears in CODE_OF_CONDUCT.md only. No outside person has used these files |
 
 ## Not claimed
 

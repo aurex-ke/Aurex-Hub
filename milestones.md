@@ -20,6 +20,6 @@
 | H0 | Skeleton, template, claims register | Files committed |
 | H1 | About and learning pages | Zero Unverified claims |
 | H2 | Venture page and skills map | Every row has a claim ID |
-| H2.5 | Contribution files (in the venture repo) | Only after venture M2 runs |
+| H2.5 | Contribution files (in the venture repo) | Only after venture M2 runs. Done: commits eb6e858, 5a5d435, 3d5720b (claim C-009) |
 | H3 | Flip labels per milestone | Simulated only with a reproducible seeded run |
 | H4 | Final re-verification of regulations, licences, links | Retrieval dates updated |
