@@ -51,8 +51,8 @@ Each skill from my [learning pages](learning/) maps to a milestone in the [skill
 
 ## Known gaps
 
-- Regulation facts were checked against excerpts. The full legal text was not read because the source blocked automated access.
-- The export credit rate is deliberately unstated. Sources disagree and it has not been checked against the regulation text.
+- Regulation facts were first checked against excerpts, then against the full gazette PDFs on 2026-10-20. Amendments, later tariff instruments and the open questions listed in the problem statement were not checked.
+- The export credit is fifty percent of the exported unit under reg. 10(3) of the net-metering regulations. Whether that applies to kWh or to value, and any later amendment or tariff instrument, is not checked (see the problem statement).
 - The OpenEMS components used so far (a CSV datasource, a grid meter, a battery simulator, a balancing controller and a debug log) come from the official Getting Started guide. PV simulation, meters for sub-metering, drivers and other controllers are not yet checked.
 - OpenEMS licence statements were seen through third-party mirrors, not the official repository.
 - All hotel and tariff numbers are assumptions.
